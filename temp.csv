@@ -1,5 +1,27 @@
 ﻿Name,Age,Class
-Apple,2,4
-Beetroot,3,6
-Chicken,4,8
-Donut,5,10
+A: Apples,1,5
+B: Bananas,2,
+C: Carrots,3,10
+D: Daikon radish,4,
+E: Eggplant,5,15
+F: Figs,6,
+G: Grapes,7,20
+H: Honeydew melon,8,
+I: Ice cream,9,25
+J: Jambalaya,10,
+K: Kale,11,30
+L: Lobster,12,
+M: Meatballs,13,35
+N: Noodles,14,
+O: Oranges,15,40
+P: Pizza,16,
+Q: Quesadilla,17,45
+R: Reuben,18,
+S: Spinach,19,50
+T: Tater tots,20,
+U: ,21,55
+V: Venison,22,
+W: Waffles,23,60
+X: ,24,
+Y: Yogurt,25,65
+Z: Ziti,26,

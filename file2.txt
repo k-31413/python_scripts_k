@@ -1,0 +1,5 @@
+property hash_delay_prop;
+  @(posedge prop_clk) req ##5 gnt;
+endproperty
+
+signal_name_delay_check: assert property (hash_delay_prop, signal_name, signal_value);
